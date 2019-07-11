@@ -1,2 +1,2 @@
 # qul-accessible-templates
-Collection of accessible HTML templates
+Accessible HTML templates
